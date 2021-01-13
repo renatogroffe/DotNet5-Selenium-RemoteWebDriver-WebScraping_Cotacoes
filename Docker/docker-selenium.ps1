@@ -1,0 +1,1 @@
+docker run --name selenium-standalone-firefox -d -p 4444:4444 --shm-size 2g selenium/standalone-firefox:4.0.0-beta-1-prerelease-20210106
